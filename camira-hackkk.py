@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#bugg/:8;;7;7-7;6:/vvuyivf b#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # Compatible with Python2 and Python3 (menu & input)
 
